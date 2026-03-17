@@ -4,7 +4,7 @@ A clean, accessible single-page task manager built with vanilla HTML, CSS, and J
 
 ## Live Demo
 
-> Deploy to Netlify/Vercel/GitHub Pages and paste the link here.
+https://task-manager-tas.netlify.app/
 
 ## Features
 
