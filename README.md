@@ -1,4 +1,4 @@
-# Taskr — Responsive Task Manager
+# Taskr - Responsive Task Manager
 
 A clean, accessible single-page task manager built with vanilla HTML, CSS, and JavaScript.
 
@@ -8,12 +8,12 @@ https://task-manager-tas.netlify.app/
 
 ## Features
 
-- **CRUD** — Create, edit, complete, and delete tasks
-- **Filter** — View All / Active / Completed tasks
-- **Persistence** — Tasks saved to `localStorage` and survive page refresh
-- **Fully Responsive** — Works on mobile (≥320px) and desktop
-- **Accessible** — ARIA roles, keyboard navigation, focus trapping in modal, reduced-motion support
-- **XSS-safe** — All user input rendered via `textContent`, never `innerHTML`
+- **CRUD** - Create, edit, complete, and delete tasks
+- **Filter** - View All / Active / Completed tasks
+- **Persistence** - Tasks saved to `localStorage` and survive page refresh
+- **Fully Responsive** - Works on mobile (≥320px) and desktop
+- **Accessible** - ARIA roles, keyboard navigation, focus trapping in modal, reduced-motion support
+- **XSS-safe** - All user input rendered via `textContent`, never `innerHTML`
 
 ## Tech Choices
 
@@ -39,7 +39,7 @@ python -m http.server 8080
 
 ### Netlify (recommended)
 1. Drag and drop the project folder into [app.netlify.com/drop](https://app.netlify.com/drop)
-2. Done — live in ~10 seconds
+2. Done - live in ~10 seconds
 
 ### GitHub Pages
 1. Push to a GitHub repo
@@ -60,7 +60,7 @@ npx vercel --prod
 
 ## Bonus
 
-JWT/OAuth authentication can be added by integrating a provider like Auth0 or Supabase Auth — the task state model is already structured for easy backend sync.
+JWT/OAuth authentication can be added by integrating a provider like Auth0 or Supabase Auth - the task state model is already structured for easy backend sync.
 
 ## Project Structure
 
